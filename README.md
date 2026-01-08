@@ -17,6 +17,7 @@ Total Savings:  $940
 2           Rent    1500
 3      Transport     110
 
-<img width="1135" height="628" alt="image" src="https://github.com/user-attachments/assets/86370381-4930-49d1-9f12-e078481caa28" />
+<img width="1135" height="628" alt="image" src="https://github.com/user-attachments/assets/e3e308a7-600a-4d48-b93b-00a35067d040" />
+
 
 
